@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Impossible Wordle
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+It will be a spinoff the popular daily word game, wordle. However, it will be seemingly impossible to beat.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+First it would generate a random word, accessed from dictonaries. It could use machine learning to dynamically adjust the difficulty of the feedback based on the player's previous guesses. Based on the included letters from the user's guess, it can switch around the word behind the scenes in order to increase difficulty and to make the game seemingly impossible.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+N/A
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+the game would be somewhat hard to beat.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+the game would be fairly difficult to beat.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+Would be impossible to beat!!
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+My next step will be to actually get started with programming. I'll need to use import random for the word selection, and I will likely use append in the code. I would need to research and explore machine learning techniques for dynamically adjusting the difficulty of the game based on the player's performance. This could involve studying natural language processing and reinforcement learning concepts. I do not plan on working with anybody, so I will be tackling this project on my owm.
